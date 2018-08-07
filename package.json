@@ -1,5 +1,5 @@
 {
-  "name": "express-mongoose-es6-rest-api",
+  "name": "tech_training",
   "version": "5.0.0",
   "description": "A Boilerplate application for building REST APIs using express, mongoose in ES6 with code coverage",
   "author": "Kunal Kapadia <kunalkapadia12@gmail.com>",
@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:KunalKapadia/express-mongoose-es6-rest-api.git"
+    "url": "git+ssh://git@github.com/KunalKapadia/express-mongoose-es6-rest-api.git"
   },
   "keywords": [
     "express",
@@ -82,5 +82,9 @@
     "commitizen": {
       "path": "./node_modules/cz-conventional-changelog"
     }
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/KunalKapadia/express-mongoose-es6-rest-api/issues"
+  },
+  "homepage": "https://github.com/KunalKapadia/express-mongoose-es6-rest-api#readme"
 }
